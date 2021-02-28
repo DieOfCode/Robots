@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1b803e0-0511-49ae-8b47-b3f70c9b99fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/MenuBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots/src/gui/GameVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/GameVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots/src/gui/GameWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/GameWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots/src/gui/LogWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/LogWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots/src/gui/MainApplicationFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/MainApplicationFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots/src/gui/RobotsProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/RobotsProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots/src/log/LogChangeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/log/LogChangeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots/src/log/LogEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/log/LogEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots/src/log/LogLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/log/LogLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots/src/log/LogWindowSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/log/LogWindowSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots/src/log/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/log/Logger.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1p6PJGDFPl5QdoKDtcc6eqlR2YF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RobotsProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.RobotsProgram" />
+      <module name="Robots" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RobotsProgram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1b803e0-0511-49ae-8b47-b3f70c9b99fc" name="Default Changelist" comment="" />
+      <created>1614500492684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614500492684</updated>
+      <workItem from="1614500496971" duration="9386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
