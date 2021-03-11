@@ -20,6 +20,7 @@ public class MenuBar {
         JMenuItem systemLookAndFeel = new JMenuItem(name, keyEvent);
         systemLookAndFeel.addActionListener(listenerFunction);
         menu.add(systemLookAndFeel);
+        ;
 
     }
 
